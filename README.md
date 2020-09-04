@@ -6,7 +6,7 @@ Ejecutar este comando:
 
 1.-
 
-```npm install```
+```npm install```\
 2.-     
 Crear carpeta 'Tablas' dentro del directorio  Multiplicar.
 
